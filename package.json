@@ -1,0 +1,7 @@
+{
+  "name": "cloudgame-manager-orchestrator",
+  "version": "1.0.0",
+  "description": "Cloud gaming master health monitor and auto-healing orchestrator",
+  "main": "orchestrator.js",
+  "dependencies": {}
+}
